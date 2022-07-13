@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ilikefesh.github.io/python-joinGroup",
-  "name": " python-joinGroup",
+  "homepage": "http://ilikefesh.github.io/python-groupJoim",
+  "name": " python-groupJoin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
